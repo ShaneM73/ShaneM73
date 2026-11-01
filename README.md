@@ -16,11 +16,11 @@ A map of my own projects, grouped by theme.
 - [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)
 - [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
 
-## 📈 Economic Landscape
+### Economic Landscape
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
 - [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
 
-## 🗞️ Social GIS
+### Social GIS
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
 ## 📐 Mathematics & Physics
