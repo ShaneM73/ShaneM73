@@ -27,6 +27,9 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics<br>
 &emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
+## 💧 Hydrological Demonstrations
+- [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
+
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — quaternions and quantum computing
 - [harmony-space-time](https://github.com/ShaneM73/harmony-space-time) — harmony in space-time
@@ -38,6 +41,3 @@ A map of my own projects, grouped by theme.
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
 - [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
-
-## 💧 Hydrological Demonstrations
-- [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
