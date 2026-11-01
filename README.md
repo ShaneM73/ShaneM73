@@ -23,6 +23,10 @@ A map of my own projects, grouped by theme.
 ### Social GIS
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
+### Teaching Modules
+- [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
+- [color-theory](https://github.com/ShaneM73/color-theory)
+
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — quaternions and quantum computing
 - [harmony-space-time](https://github.com/ShaneM73/harmony-space-time) — harmony in space-time
@@ -30,8 +34,6 @@ A map of my own projects, grouped by theme.
 ## 🎨 Visualization & Graphics
 - [Visualizer](https://github.com/ShaneM73/Visualizer)
 - [Visualizer2026-WebXR](https://github.com/BM-Studio-2026/Visualizer2026-WebXR) — WebXR visualizer (BM-Studio-2026)
-- [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
-- [color-theory](https://github.com/ShaneM73/color-theory)
 
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
