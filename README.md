@@ -4,26 +4,26 @@ A map of my own projects, grouped by theme.
 
 ## 🌍 Geospatial Science
 
-### Remote Sensing & Earth Observation
+### &emsp;&emsp;Remote Sensing & Earth Observation
 - [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
 
-### Historical Geography
+### &emsp;&emsp;Historical Geography
 - [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — Europe through space and time
 - [Chinese_spatiotemporal_geography](https://github.com/ShaneM73/Chinese_spatiotemporal_geography) — China through space and time
 
-### Campus Atlases
+### &emsp;&emsp;Campus Atlases
 - [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas)
 - [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)
 - [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
 
-### Economic Landscape
+### &emsp;&emsp;Economic Landscape
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
 - [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
 
-### Social GIS
+### &emsp;&emsp;Social GIS
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
-### Teaching Modules
+### &emsp;&emsp;Teaching Modules
 - [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
 - [color-theory](https://github.com/ShaneM73/color-theory)
 
