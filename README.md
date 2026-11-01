@@ -7,7 +7,7 @@ A map of my own projects, grouped by theme.
 ### Remote Sensing & Earth Observation
 - [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
 
-### GIS & Geography
+### History Geography
 - [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — Europe through space and time
 - [Chinese_spatiotemporal_geography](https://github.com/ShaneM73/Chinese_spatiotemporal_geography) — China through space and time
 
