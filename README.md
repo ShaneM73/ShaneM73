@@ -5,27 +5,27 @@ A map of my own projects, grouped by theme.
 ## 🌍 Geospatial Science
 
 ### &emsp;&emsp;Remote Sensing & Earth Observation
-- [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
+&emsp;&emsp;• [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
 
 ### &emsp;&emsp;Historical Geography
-- [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — Europe through space and time
-- [Chinese_spatiotemporal_geography](https://github.com/ShaneM73/Chinese_spatiotemporal_geography) — China through space and time
+&emsp;&emsp;• [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — Europe through space and time<br>
+&emsp;&emsp;• [Chinese_spatiotemporal_geography](https://github.com/ShaneM73/Chinese_spatiotemporal_geography) — China through space and time
 
 ### &emsp;&emsp;Campus Atlases
-- [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas)
-- [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)
-- [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
+&emsp;&emsp;• [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas)<br>
+&emsp;&emsp;• [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)<br>
+&emsp;&emsp;• [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
 
 ### &emsp;&emsp;Economic Landscape
-- [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
-- [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
+&emsp;&emsp;• [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping<br>
+&emsp;&emsp;• [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
 
 ### &emsp;&emsp;Social GIS
-- [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
+&emsp;&emsp;• [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
 ### &emsp;&emsp;Teaching Modules
-- [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
-- [color-theory](https://github.com/ShaneM73/color-theory)
+&emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics<br>
+&emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — quaternions and quantum computing
