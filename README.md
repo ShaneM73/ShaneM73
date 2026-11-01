@@ -2,7 +2,7 @@
 
 A map of my own projects, grouped by theme.
 
-## 🌍 Geospatial Science
+## 🌍 $\color{#1F4E79}{\textsf{Geospatial Science}}$
 
 ### Remote Sensing & Earth Observation
 - [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
@@ -16,26 +16,26 @@ A map of my own projects, grouped by theme.
 - [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)
 - [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
 
-## 📈 Economic Landscape
+## 📈 $\color{#1F4E79}{\textsf{Economic Landscape}}$
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
 - [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
 
-## 🗞️ Social GIS
+## 🗞️ $\color{#1F4E79}{\textsf{Social GIS}}$
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
-## 📐 Mathematics & Physics
+## 📐 $\color{#1F4E79}{\textsf{Mathematics \& Physics}}$
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — quaternions and quantum computing
 - [harmony-space-time](https://github.com/ShaneM73/harmony-space-time) — harmony in space-time
 
-## 🎨 Visualization & Graphics
+## 🎨 $\color{#1F4E79}{\textsf{Visualization \& Graphics}}$
 - [Visualizer](https://github.com/ShaneM73/Visualizer)
 - [Visualizer2026-WebXR](https://github.com/BM-Studio-2026/Visualizer2026-WebXR) — WebXR visualizer (BM-Studio-2026)
 - [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
 - [color-theory](https://github.com/ShaneM73/color-theory)
 
-## 🩻 Medical AI
+## 🩻 $\color{#1F4E79}{\textsf{Medical AI}}$
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
 - [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
 
-## 🧰 Tools
+## 🧰 $\color{#1F4E79}{\textsf{Tools}}$
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
