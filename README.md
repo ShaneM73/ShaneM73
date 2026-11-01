@@ -2,18 +2,10 @@
 
 A map of my own projects, grouped by theme.
 
-## 📈 Economic Landscape
-- [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
-- [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
-
-## 🗞️ Social GIS
-- [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
-
-## 🌍 Spatial Science
+## 🌍 Geospatial Science
 
 ### Remote Sensing & Earth Observation
 - [MO-wetland2026](https://github.com/ShaneM73/MO-wetland2026) — Missouri wetlands
-- [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
 
 ### GIS & Geography
 - [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — Europe through space and time
@@ -23,6 +15,13 @@ A map of my own projects, grouped by theme.
 - [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas)
 - [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)
 - [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
+
+## 📈 Economic Landscape
+- [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
+- [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
+
+## 🗞️ Social GIS
+- [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — quaternions and quantum computing
@@ -36,6 +35,7 @@ A map of my own projects, grouped by theme.
 
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
+- [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
 
 ## 🧰 Tools
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
