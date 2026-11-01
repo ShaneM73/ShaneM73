@@ -39,5 +39,5 @@ A map of my own projects, grouped by theme.
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
 - [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
 
-## 🧰 Tools
+## 💧 Hydrological Demonstrations
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
