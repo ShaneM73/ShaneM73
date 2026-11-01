@@ -5,6 +5,8 @@ A map of my own projects, grouped by theme.
 ## 📈 Economic Landscape
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping
 - [market-pulse-dashboard](https://github.com/ShaneM73/market-pulse-dashboard) — stock market dashboard
+
+## 🗞️ Social GIS
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
 ## 🌍 Spatial Science
