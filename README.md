@@ -27,7 +27,7 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics<br>
 &emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
-## 💧 Hydrological Demonstrations
+## 💧 Hydrology & Water Simulation
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
 
 ## 📐 Mathematics & Physics
