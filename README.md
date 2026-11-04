@@ -24,7 +24,7 @@ A map of my own projects, grouped by theme.
 ### &emsp;&emsp;Social GIS
 &emsp;&emsp;• [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
-### &emsp;&emsp;Teaching Modules
+### &emsp;&emsp;GEO 360 Aerial Photo Interpretation
 &emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics<br>
 &emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
