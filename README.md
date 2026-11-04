@@ -31,6 +31,7 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
 ### &emsp;&emsp;GEO 551/651 Remote Sensing
+&emsp;&emsp;• [satellites](https://github.com/ShaneM73/satellites)
 
 ### &emsp;&emsp;GEO 572/672 Photogrammetry and LiDAR
 
