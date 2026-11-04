@@ -17,7 +17,8 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
 
 ### &emsp;&emsp;3D Modeling
-&emsp;&emsp;• [Blunt_hall_3D](https://github.com/ShaneM73/Blunt_hall_3D) — 3D model of Blunt Hall
+&emsp;&emsp;• [Blunt_hall_3D](https://github.com/ShaneM73/Blunt_hall_3D) — 3D model of Blunt Hall<br>
+&emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics
 
 ### &emsp;&emsp;Economic Landscape
 &emsp;&emsp;• [job-market-map](https://github.com/ShaneM73/job-market-map) — job market mapping<br>
@@ -27,7 +28,6 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [world-news-globe](https://github.com/ShaneM73/world-news-globe) — world news on a globe
 
 ### &emsp;&emsp;GEO 360 Aerial Photo Interpretation
-&emsp;&emsp;• [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — interactive computer graphics<br>
 &emsp;&emsp;• [color-theory](https://github.com/ShaneM73/color-theory)
 
 ### &emsp;&emsp;GEO 551/651 Remote Sensing
