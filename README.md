@@ -14,7 +14,9 @@ A map of my own projects, grouped by theme.
 ### &emsp;&emsp;Campus Atlases
 &emsp;&emsp;• [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas)<br>
 &emsp;&emsp;• [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026)<br>
-&emsp;&emsp;• [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)<br>
+&emsp;&emsp;• [oakland-campus-atlas](https://github.com/ShaneM73/oakland-campus-atlas)
+
+### &emsp;&emsp;3D Modeling
 &emsp;&emsp;• [Blunt_hall_3D](https://github.com/ShaneM73/Blunt_hall_3D) — 3D model of Blunt Hall
 
 ### &emsp;&emsp;Economic Landscape
