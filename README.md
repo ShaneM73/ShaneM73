@@ -50,6 +50,7 @@ A map of my own projects, grouped by theme.
 
 ## 🤖 AI Models
 - [inside-alphazero](https://github.com/ShaneM73/inside-alphazero)
+- [diffusion-models-demo](https://github.com/ShaneM73/diffusion-models-demo)
 
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
