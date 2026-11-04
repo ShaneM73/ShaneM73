@@ -48,6 +48,9 @@ A map of my own projects, grouped by theme.
 - [Visualizer](https://github.com/ShaneM73/Visualizer)
 - [Visualizer2026-WebXR](https://github.com/BM-Studio-2026/Visualizer2026-WebXR) — WebXR visualizer (BM-Studio-2026)
 
+## 🤖 AI Models
+- [inside-alphazero](https://github.com/ShaneM73/inside-alphazero)
+
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — lung masking on chest X-rays
 - [ivm-velocimetry](https://github.com/ShaneM73/ivm-velocimetry) — velocimetry
