@@ -34,6 +34,8 @@ A map of my own projects, grouped by theme.
 &emsp;&emsp;• [satellites](https://github.com/ShaneM73/satellites)
 
 ### &emsp;&emsp;GEO 572/672 Photogrammetry and LiDAR
+&emsp;&emsp;• [open-photogrammetry-lab](https://github.com/ShaneM73/open-photogrammetry-lab)<br>
+&emsp;&emsp;• [LiDAR-Principles-Practice](https://github.com/ShaneM73/LiDAR-Principles-Practice)
 
 ## 💧 Hydrology & Water Simulation
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox)
