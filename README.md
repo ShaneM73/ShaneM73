@@ -29,6 +29,7 @@ A map of my own projects, grouped by theme.
 
 ### &emsp;&emsp;GEO 360 Aerial Photo Interpretation
 - [color-theory](https://github.com/ShaneM73/color-theory) — Color Theory Lab: additive and subtractive color, color models and perception in eight interactive steps
+- [GEO360-courseware](https://github.com/ShaneM73/GEO360-courseware) — eight interactive labs from similar triangles and spherical geometry to GPS, drone mission planning, relief displacement and stereo parallax ([launch](https://shanem73.github.io/GEO360-courseware/))
 
 ### &emsp;&emsp;GEO 551/651 Remote Sensing
 - [satellites](https://github.com/ShaneM73/satellites) — Eyes on Earth: a 3D tour of today's Earth observation satellites, their orbits and missions
