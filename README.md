@@ -26,6 +26,7 @@ A map of my own projects, grouped by theme.
 
 ### &emsp;&emsp;Social GIS
 - [world-news-globe](https://github.com/ShaneM73/world-news-globe) — 3D globe of the day's biggest news stories, updated automatically every day from GDELT
+- [Springfield-flow](https://github.com/ShaneM73/Springfield-flow) — 3D space–time cube of commuting flows in the Springfield, MO metro, 2002–2024, from LEHD LODES: in-state and out-of-state commuters, job centres and commuting communities ([launch](https://shanem73.github.io/Springfield-flow/))
 
 ### &emsp;&emsp;GEO 360 Aerial Photo Interpretation
 - [color-theory](https://github.com/ShaneM73/color-theory) — Color Theory Lab: additive and subtractive color, color models and perception in eight interactive steps
