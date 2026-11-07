@@ -39,7 +39,7 @@ A map of my own projects, grouped by theme.
 - [open-photogrammetry-lab](https://github.com/ShaneM73/open-photogrammetry-lab) — browser-based photogrammetry course with 3D demos and labs, from interior orientation to orthophotos
 - [LiDAR-Principles-Practice](https://github.com/ShaneM73/LiDAR-Principles-Practice) — LiDAR principles and practice course (in progress)
 
-## 🗺️ GIS
+### &emsp;&emsp;GIS
 - [graph-theory](https://github.com/ShaneM73/graph-theory) — Graph Algorithms Lab: ten 3D step-through modules on BFS, DFS, topological sort, strongly connected components, minimum spanning trees and shortest paths, with lecture notes
 
 ## 💧 Hydrology & Water Simulation
