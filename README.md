@@ -60,6 +60,7 @@ A map of my own projects, grouped by theme.
 ## 🤖 AI Models
 - [inside-alphazero](https://github.com/ShaneM73/inside-alphazero) — 3D walk-through of AlphaZero's chess neural network, one move at a time
 - [diffusion-models-demo](https://github.com/ShaneM73/diffusion-models-demo) — interactive guide to how diffusion models turn random noise into images (English / 中文)
+- [cnn-model](https://github.com/ShaneM73/cnn-model) — Inside a CNN: a small trained convolutional network in 3D, with a feature atlas of every filter and a shower analogy for back-propagation ([launch](https://shanem73.github.io/cnn-model/))
 
 ## 🩻 Medical AI
 - [MedSAM-CXR-Lung-Masking](https://github.com/ShaneM73/MedSAM-CXR-Lung-Masking) — code for a study of how MedSAM lung masking affects multi-label chest X-ray classification
