@@ -11,6 +11,9 @@ A map of my own projects, grouped by theme.
 - [European_spatiotemporal_geography](https://github.com/ShaneM73/European_spatiotemporal_geography) — 3D space–time cube of European borders and historic events since 500 BCE, in 12 languages
 - [Chinese_spatiotemporal_geography](https://github.com/ShaneM73/Chinese_spatiotemporal_geography) — 3D space–time cube of the borders, events and place names of China and its neighbours, in 4 languages
 
+### &emsp;&emsp;Geography
+- [southasia-geography](https://github.com/ShaneM73/southasia-geography) — South Asia in Relief: a 3D teaching module on the region's landforms, monsoon, languages, religion, history, cities and environment, with guided map tours and a quiz ([launch](https://shanem73.github.io/southasia-geography/))
+
 ### &emsp;&emsp;Campus Atlases
 - [msu-campus-atlas](https://github.com/ShaneM73/msu-campus-atlas) — 3D infographic of the Missouri State campus, built from the campus SketchUp model
 - [msu-campus-atlas-2026](https://github.com/ShaneM73/msu-campus-atlas-2026) — 3D atlas of the Missouri State campus, built from current OpenStreetMap data
