@@ -48,7 +48,7 @@ A map of my own projects, grouped by theme.
 
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — two-module course linking Hamilton's quaternions to qubits and quantum gates
-- [Rubik-cube](https://github.com/ShaneM73/Rubik-cube) — interactive 3D Rubik's cube showing the linear algebra and group theory behind it, with a step-by-step solving guide
+- [Rubik-cube](https://github.com/ShaneM73/Rubik-cube) — interactive 3D Rubik's cube showing the linear algebra and group theory behind it, with a step-by-step solving guide ([launch](https://shanem73.github.io/Rubik-cube/))
 
 ## 🎵 Music Analysis
 - [harmony-space-time](https://github.com/ShaneM73/harmony-space-time) — how chord use changed across 3,539 pieces from 1565 to 1980s pop, mapped in a 3D space–time cube
