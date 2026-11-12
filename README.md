@@ -51,7 +51,7 @@ A map of my own projects, grouped by theme.
 
 ## 📐 Mathematics & Physics
 - [Quaternion-Quantum-computing](https://github.com/ShaneM73/Quaternion-Quantum-computing) — two-module course linking Hamilton's quaternions to qubits and quantum gates
-- [quantum-theory](https://github.com/ShaneM73/quantum-theory) — Quantum Theory Labs: four 3D labs from quaternions and Hopf fibers to quantum gates and entanglement, with a WebXR VR version, in 4 languages ([launch](https://shanem73.github.io/quantum-theory/))
+- [quantum-theory](https://github.com/ShaneM73/quantum-theory) — Quantum Theory Labs: four 3D labs from quaternions and Hopf fibers to quantum gates and entanglement, with a WebXR VR version (English / Español) ([launch](https://shanem73.github.io/quantum-theory/))
 - [Rubik-cube](https://github.com/ShaneM73/Rubik-cube) — interactive 3D Rubik's cube showing the linear algebra and group theory behind it, with a step-by-step solving guide ([launch](https://shanem73.github.io/Rubik-cube/))
 
 ## 🎵 Music Analysis
