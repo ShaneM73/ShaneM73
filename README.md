@@ -22,6 +22,7 @@ A map of my own projects, grouped by theme.
 ### &emsp;&emsp;3D Modeling
 - [Blunt_hall_3D](https://github.com/ShaneM73/Blunt_hall_3D) — web viewer for handheld LiDAR scans of Blunt Hall: point clouds, SLAM floor plans and a 3D mesh
 - [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — step-through teaching modules on ray tracing and Gaussian splatting
+- [Arch-SL](https://github.com/ShaneM73/Arch-SL) — see-through 3D model of the St. Louis Gateway Arch, built from its true catenary equation: brushed-stainless finish, X-ray and cutaway views of the double skin, tendons, trams and stairs, and a replay of its 1963–65 construction ([launch](https://shanem73.github.io/Arch-SL/))
 
 ### &emsp;&emsp;Economic Landscape
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — 3D map of the 2026 US labor market and the top hubs for geospatial jobs, with a research report
