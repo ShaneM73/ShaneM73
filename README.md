@@ -45,6 +45,7 @@ A map of my own projects, grouped by theme.
 
 ### &emsp;&emsp;GIS
 - [graph-theory](https://github.com/ShaneM73/graph-theory) — Graph Algorithms Lab: ten 3D step-through modules on BFS, DFS, topological sort, strongly connected components, minimum spanning trees and shortest paths, with lecture notes
+- [GIS-Day-2026](https://github.com/ShaneM73/GIS-Day-2026) — Introduction to GeoAI: an interactive 3D talk for GIS Day 2026 on reality capture, Segment Anything, Earth embeddings, H3, digital-twin forecasting and GIS agents ([launch](https://shanem73.github.io/GIS-Day-2026/))
 
 ## 💧 Hydrology & Water Simulation
 - [virtual-sandbox](https://github.com/ShaneM73/virtual-sandbox) — AR Sandbox moved into the browser and VR: shape terrain and watch contours and water flow in real time
