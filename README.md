@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Shane
 
+**English** · [中文](README.zh-CN.md)
+
 A map of my own projects, grouped by theme.
 
 ## 🌍 Geospatial Science
@@ -24,7 +26,7 @@ A map of my own projects, grouped by theme.
 - [computer-graphics-explorables](https://github.com/ShaneM73/computer-graphics-explorables) — step-through teaching modules on ray tracing and Gaussian splatting
 - [Arch-SL](https://github.com/ShaneM73/Arch-SL) — see-through 3D model of the St. Louis Gateway Arch, built from its true catenary equation: brushed-stainless finish, X-ray and cutaway views of the double skin, tendons, trams and stairs, and a replay of its 1963–65 construction ([launch](https://shanem73.github.io/Arch-SL/))
 - [Manhattan](https://github.com/ShaneM73/Manhattan) — georeferenced, see-through 3D model of the Midtown Manhattan skyline: 42 landmark sites at true height on the real street grid, with X-ray and cutaway views of floors, cores and elevators, a 1890–2026 timeline, and GeoJSON and GLB exports ([launch](https://shanem73.github.io/Manhattan/))
-- [GuGong-Beijing](https://github.com/ShaneM73/GuGong-Beijing) — walk-in 3D model of the Forbidden City and the whole Beijing Central Axis, Yongdingmen to the Bell Tower: all 15 World Heritage components at 1:1 scale, with hall interiors, a roof cutaway and notes on every building (interface in Chinese) ([launch](https://shanem73.github.io/GuGong-Beijing/))
+- [GuGong-Beijing](https://github.com/ShaneM73/GuGong-Beijing) — walk-in 3D model of the Forbidden City and the whole Beijing Central Axis, Yongdingmen to the Bell Tower: all 15 World Heritage components at 1:1 scale, with hall interiors, a roof cutaway and notes on every building (in English, Chinese, Japanese and Korean) ([launch](https://shanem73.github.io/GuGong-Beijing/))
 
 ### &emsp;&emsp;Economic Landscape
 - [job-market-map](https://github.com/ShaneM73/job-market-map) — 3D map of the 2026 US labor market and the top hubs for geospatial jobs, with a research report
